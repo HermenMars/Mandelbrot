@@ -1,0 +1,7 @@
+{
+	"InstallScripts" : 
+	[
+		"/home/hermen/Projects/sfml/mandelbrot/build/cmake_install.cmake"
+	],
+	"Parallel" : false
+}
