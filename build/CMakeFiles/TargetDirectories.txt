@@ -1,0 +1,4 @@
+/home/hurmpel/Projects/Mandelbrot/build/CMakeFiles/shaders.dir
+/home/hurmpel/Projects/Mandelbrot/build/CMakeFiles/mandelbrot.dir
+/home/hurmpel/Projects/Mandelbrot/build/CMakeFiles/edit_cache.dir
+/home/hurmpel/Projects/Mandelbrot/build/CMakeFiles/rebuild_cache.dir
